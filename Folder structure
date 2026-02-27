@@ -1,0 +1,14 @@
+arnex-deals/
+├─ public/
+│   ├─ index.html
+│   ├─ placeholder1.png
+│   ├─ placeholder2.png
+│   └─ placeholder3.png
+├─ src/
+│   ├─ App.jsx
+│   ├─ index.jsx
+│   └─ index.css
+├─ package.json
+├─ tailwind.config.js
+├─ postcss.config.js
+└─ README.md
